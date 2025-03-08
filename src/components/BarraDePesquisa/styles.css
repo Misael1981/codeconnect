@@ -1,0 +1,8 @@
+.barra-pesquisa {
+  width: 100%;
+  color: var(--cinza-claro);
+  padding: 0.5rem 1em;
+  height: 49px;
+  font-family: var(--fonte);
+  font-size: 22px;
+}
